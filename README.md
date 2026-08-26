@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vaibhav Singh👋</h1>
 
-<!--
-**hevaibhav/hevaibhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer who enjoys building real-world applications and solving problems with clean, efficient solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently focused on improving my skills in software development, system design, and data structures & algorithms.
+
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=hevaibhav&show_icons=true&theme=tokyonight&hide_border=true" />
+
+## 🔥 GitHub Streak
+
+<img src="https://streak-stats.demolab.com?user=hevaibhav&theme=tokyonight&hide_border=true" />
