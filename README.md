@@ -6,4 +6,50 @@ I'm a passionate developer who enjoys building real-world applications and solvi
 
 I'm currently focused on improving my skills in software development, system design, and data structures & algorithms.
 
+## 🛠️ Skills
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=github,vscode" />
+</p>
+
+---
+
+## 🚀 Currently Learning
+
+- Full-Stack Web Development
+- Backend Development with Node.js & Express.js
+- REST APIs
+- HTTP/HTTPS
+- Data Structures & Algorithms
+
+---
+
+## 📌 Tech Stack
+
+```text
+C • C++ • Java • Python • JavaScript
+HTML • CSS • Node.js • Express.js
+MySQL
+GitHub • VS Code
+
 
