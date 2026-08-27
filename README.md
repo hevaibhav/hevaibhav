@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Vaibhav Singh👋</h1>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About M
 
 I'm a passionate developer who enjoys building real-world applications and solving problems with clean, efficient solutions.
 
