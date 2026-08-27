@@ -44,12 +44,13 @@ I'm currently focused on improving my skills in software development, system des
 
 ---
 
-## 📌 Tech Stack
+## 📫 Connect With Me
 
-```text
-C • C++ • Java • Python • JavaScript
-HTML • CSS • Node.js • Express.js
-MySQL
-GitHub • VS Code
+<p>
+  <a href="https://instagram.com/hevaibhav">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 
 
